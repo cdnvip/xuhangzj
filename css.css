@@ -587,7 +587,7 @@ ul.divTags,ul.aside_hot_tag{margin-top:-.5em}
 .page-numbers{padding:0 1em;line-height:34px;text-align:center;margin:0 0 0 5px;display:inline-block;background-color:#0084ff;color:#fff}
 a.page-numbers{background:#fff;color:#1a1a1a}
 a.page-numbers:hover{background-color:#0084ff;color:#fff}
-.ias-spinner{background:url(http://www.xuhangzj.com/skin/xh21/img/loading.gif) no-repeat center;float:inherit;width:98%;margin:0 auto;height:35px}
+.ias-spinner{background:url(img/loading.gif) no-repeat center;float:inherit;width:98%;margin:0 auto;height:35px}
 .ias-trigger-next{cursor:pointer;float:inherit;text-align:center}
 .ias-trigger-next a{background:#fff;color:#333;padding:1em 2em;line-height:100%;border-radius:2px;box-shadow:0 1px 2px 0 rgba(51,51,51,.3);display:block}
 .ias-trigger-next a:hover{box-shadow:0 3px 2px 0 rgba(51,51,51,.2)}
