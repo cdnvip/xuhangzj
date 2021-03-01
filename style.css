@@ -259,7 +259,7 @@ to{visibility:visible;opacity:1;-webkit-transform:none;transform:none}
 .recommend-b .intro:before{content:"";height:10px;width:10px;background-color:#f8f8f8;-webkit-transform:rotate(-45deg);-moz-transform:rotate(-45deg);-ms-transform:rotate(-45deg);-o-transform:rotate(-45deg);transform:rotate(-45deg);border-left:0;border-bottom:0;position:absolute;top:34px;left:-5px}
 .recommend-b .fr-wrap{margin-left:80px}
 .recommend-b .thumbnail{display:block;overflow:hidden;width:80px;height:80px}
-.recommend-b .thumbnail img{width:120px;height:80px}
+.recommend-b .thumbnail img{width:80px;height:80px}
 /*--首页推荐模块C--*/
 .recommend-c .more{position:absolute;right:0;height:35px;line-height:35px}
 .recommend-c .more i.iconfont{font-size:24px}
