@@ -1,8 +1,17 @@
+//baidu tongji
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?b3edc6f3baeff97fd0a6c08b81311a50";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+
 //夜间模式
 $(document).ready(function(){
 	
 	if(document.cookie.replace(/(?:(?:^|.*;\s*)night\s*\=\s*([^;]*).*$)|^.*$/, "$1") === ''){
-		if(new Date().getHours() > 22 || new Date().getHours() < 6){
+		if(new Date().getHours() > 24 || new Date().getHours() < 0){
 			document.body.classList.add('night');
 			document.cookie = "night=1;path=/";
 			//console.log('夜间模式开启');
