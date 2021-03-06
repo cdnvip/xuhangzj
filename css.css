@@ -30,7 +30,7 @@ a:hover{color:#0084ff}
 ::selection{background:#0084ff;color:#fff}
 ::-moz-selection{background:#0084ff;color:#fff}
 /*==========public class=========*/
-.tag-hot{padding-top:10px;position:relative;font-size:14px;width:100%;word-break:break-all}.tag-hot a{color:#0084ff;padding:10px}.tag-hot a:hover{border-bottom:1px dashed #0084ff}.tag-hot1{font-size:20px}.tag-hot2{font-size:18px}.tag-hot3{font-size:16px}.tag-hot4{font-size:14px}.tag-hot5{font-size:12px}
+.tag-hot{position:relative;font-size:14px;width:100%;word-break:break-all}.tag-hot a{color:#0084ff;padding:10px}.tag-hot1{font-size:20px}.tag-hot2{font-size:18px}.tag-hot3{font-size:16px}.tag-hot4{font-size:14px}.tag-hot5{font-size:12px}
 .clearfix:after{content:".";display:block;height:0;clear:both;visibility:hidden}
 .clear{clear:both}
 .fl{float:left}
