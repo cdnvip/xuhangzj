@@ -819,7 +819,7 @@ span.toggle-btn i.iconfont{color:#eee;font-size:18px}
 .shoplist dl dd p span.jingd:after{ content:"京东";background:red; color:white; line-height:17px; width:95%; height:85%;border-radius:5px; font-size:12px; position:absolute;left:0; top:0px; text-align:center;}
 .shoplist dl dd p a{color: #333; text-decoration: none;}
 .shoplist .shoplist_link{ color:#F00;font-size: 14px; margin-top:5px;}
-.shoplist .shoplist_link b{color:#F00; font-size:22px;}
+.shoplist .shoplist_link b{color:#F00; font-size:20px;}
 .shoplist .shoplist_link .rmb{color: #fd3636;font-family: Arial, Helvetica, sans-serif;}
 .shoplist .shoplist_link .beizhu{ margin-left:10px;font-size:14px;color:#999;font-family: Arial, Helvetica, sans-serif;}
 .shoplist .shoplist_link em{ font-style: normal; text-decoration: line-through; }
